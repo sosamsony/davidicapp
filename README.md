@@ -9,4 +9,4 @@ The Project can be viewd at [Netlify](https://music-playr.netlify.app/)
 The Project can be viewd at [Vercel](https://music-player-mridul28.vercel.app/)
 
 ### Screenshot 
-<img align="left" src="https://github.com/Mridul2820/apps-react/blob/master/public/image/music-player.png" alt="React App" width="100%">
+<img align="left" src="https://drive.google.com/file/d/13UBTJNqkOnu3-vGGVY-edWroV_s8XvON/view?usp=sharing" alt="React App" width="100%">
