@@ -1,12 +1,13 @@
-# Music Player React App
+# Davidic Music Player React App
+The Project is specially developed for [Evang. Lawrence Oyor](https://www.facebook.com/lawoyor)
 
-## Available Deploy on Netlify
+## Available Deploy online
 
-The Project can be viewd at [Netlify](https://music-playr.netlify.app/)
+The Project can be viewd at [View](https://davidicapp.sosamson.com/)
 
-## Available Deploy on Vercel
+## The Developer is Samson Sanyaolu
 
-The Project can be viewd at [Vercel](https://music-player-mridul28.vercel.app/)
+You can check his profile [Here](https://sosamson.com)
 
 ### Screenshot 
-<img align="left" src="https://drive.google.com/file/d/13UBTJNqkOnu3-vGGVY-edWroV_s8XvON/view?usp=sharing" alt="React App" width="100%">
+<img align="left" src="http://sosamson.com/davidic_cover.png" alt="React App" width="100%">
