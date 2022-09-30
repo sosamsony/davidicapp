@@ -202,7 +202,7 @@ function chillHop() {
             active: false,
         },
         {
-            name: "I'M IN LOVE",
+            name: "I'm In Love",
             cover:
                 "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
             artist: "Lawrence Oyor",
@@ -212,7 +212,7 @@ function chillHop() {
             active: false,
         },
         {
-            name: "I'M HUNGRY",
+            name: "I'm Hungry",
             cover:
                 "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
             artist: "Lawrence Oyor",
@@ -231,6 +231,196 @@ function chillHop() {
             id: uuidv4(),
             active: false,
         },
+        {
+            name: "It Is A Beautiful Day",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/It%20is%20a%20beautiful%20day.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Jesus My Love",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/Jesu%20my%20Love%20---%20Lawrence%20oyor(MP3_128K).mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Lion Of Judah",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/Lawrence%20Oyor%20-%20Lion%20of%20Judah.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Someone to Shout About",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/Lawrence%20Oyor%20-%20Someone%20to%20Shout%20About.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "You Are My Obsession",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/Lawrence_Oyor-_You're_my_Obsession_(Live).mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Living Bread Living Water",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/Living%20Bread%20Living%20Water%20(128%20%20kbps).mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "My Daddy My Daddy",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/My%20Daddy%20My%20Daddy%20-%20Lawrence%20Oyor%20X%20David%20Shawn%20(128%20%20kbps).mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Mo Fe Gbina O Jesu",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/MO_FE%20GBINA%20O_JESU%20-%20PASTOR%20LAWRENCE%20OYOR(MP3_128K).mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Over The Nation",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/OVER%20THE%20NATIONS%20Song%20by%20Theophilus%20Sunday(Featuring%20Lawrence%20Oyor%20and%20Michael%20Orokpo)%20(128%20%20kbps).mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Ebi N Pami ft. P.Danel",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/P.Daniel%20-%20Ebi%20n%20Pami%20Ft.%20Lawrence%20Oyor.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Paradise",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/Paradise.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Quarantine Charging",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/QUARANTINE%20CHARGING!!!%20(64%20%20kbps).mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Restlessness",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/Restlessness%20-%20PST%20LAWRENCE.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Spirit Life",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/Spirit%20Life.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "This Is My Worship",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/THIS%20IS%20MY%20WORSHIP%20(128%20%20kbps).mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Cleansing Fire",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/The%20Cleansing%20Fire%20-%20Evang%20Lawrence%20Oyor.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "The Hungry Shall Be Filled",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/The%20Hungry%20Shall%20be%20Filled%20(Immersion%202018).mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "What A Friend - Cover",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/What%20A%20Friend%20Cover%20By%20Lawrence%20Oyor.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        },  
+        {
+            name: "You are Good",
+            cover:
+                "https://1.bp.blogspot.com/-VuryA9cI8rE/X3-ZBn0iU6I/AAAAAAAACwU/NF5FF82mK4U5I5B5ExKgVPHSed3NvUAQACLcBGAsYHQ/s320/lawrence%2Boyor%2Bbiography.jpg",
+            artist: "Lawrence Oyor",
+            audio: "https://naijasermons.com.ng/wp-content/uploads/SONGS/Lawrence%20Oyor/You%20Are%20Good.mp3",
+            color: ["#596843", "#3C4633"],
+            id: uuidv4(),
+            active: false,
+        }, 
         //ADD MORE HERE
     ];
 }
