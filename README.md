@@ -1,7 +1,7 @@
 # Davidic Music Player React App
 The Project is specially developed for [Evang. Lawrence Oyor](https://www.facebook.com/lawoyor) and as well dedicated to him.
 
-## Available Deploy online
+## Available Deployed online
 
 The Project can be viewd at [View](https://davidicapp.sosamson.com/)
 
